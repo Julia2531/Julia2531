@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Julia Vitoria! 👋 
+### 🎓 **Estudante de Engenharia de Software**
 
-<!--
-**Julia2531/Julia2531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+> 💻 Apaixonada por tecnologia e desenvolvimento de software.  
+> 🌎 Meu objetivo é evoluir como desenvolvedora e trabalhar em projetos inovadores, contribuindo com soluções eficientes e bem estruturadas. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💖 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/julia-santiago-493bbb397?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="santiagojulia047@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=C0392B" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julia2531&show_icons=true&theme=rose&title_color=E0A7C2&icon_color=E0A7C2&text_color=666&bg_color=ffffff" alt="Estatísticas da Julia" />
+</p>
